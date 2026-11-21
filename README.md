@@ -1,6 +1,6 @@
 ### Kia ora, I'm Kayde 👋
 
-**Full-stack developer in Auckland, New Zealand. I build websites and web apps as [builtbykayde](https://kayde-portfolio.vercel.app).**
+**Full-stack developer in Auckland, New Zealand. I build websites and web apps as [builtbykayde](https://builtbykayde.vercel.app).**
 
 I've got a **Level 5 Certificate in Full-Stack Development** from Mission Ready, and I'm
 taking on my first freelance clients. I like building things that are fast, clean and easy
@@ -10,7 +10,7 @@ for the people who use them every day.
 
 #### 🔨 Right now
 
-- Building my [portfolio](https://builtbykayde.vercel.app/) with React + Vite, plus a private
+- Building my [portfolio](https://builtbykayde.vercel.app) with React + Vite, plus a private
   client dashboard on Supabase with Row Level Security
 - Looking for small businesses in NZ that need a website, or a better one
 - Getting deeper into TypeScript and back-end security
@@ -41,4 +41,4 @@ for the people who use them every day.
 #### 📫 Get in touch
 
 Got a project or a role in mind? Email **[builtbykayde@gmail.com](mailto:builtbykayde@gmail.com)**
-or see more at **[builtbykayde](https://builtbykayde.vercel.app/)**.
+or see more at **[builtbykayde](https://builtbykayde.vercel.app)**.
